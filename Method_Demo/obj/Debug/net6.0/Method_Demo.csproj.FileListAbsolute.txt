@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\bin\Debug\net6.0\Method_Demo.exe
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\bin\Debug\net6.0\Method_Demo.deps.json
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\bin\Debug\net6.0\Method_Demo.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\bin\Debug\net6.0\Method_Demo.dll
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\bin\Debug\net6.0\Method_Demo.pdb
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.dll
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\refint\Method_Demo.dll
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.pdb
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\Method_Demo.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\Method_Demo\Method_Demo\obj\Debug\net6.0\ref\Method_Demo.dll
